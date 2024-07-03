@@ -1,12 +1,12 @@
 ![Background](https://github.com/rxhul18/rxhul18/assets/99045557/18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97)
 <h1 align="center">Hi 👋, I'm Rahul Shah</h1>
 <h3 align="center">A Passionate Web Developer | Seeking Collaborative Opportunities</h3>
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/rxhul18/count.svg" alt="" /></td>
   </tr>
-</table>
+</table> -->
 <br>
 <img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
 
